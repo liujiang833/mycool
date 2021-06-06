@@ -1,0 +1,3 @@
+./trickyatdispatch2.test:10: expression has type A which is not a subtype of dispatch type B
+./trickyatdispatch2.test:10:inferred return type Object doesn't conform to expected return type Int
+Compilation halted due to static semantic errors.
